@@ -34,12 +34,6 @@
   font-style: bold;
 }
 
-@font-face {
-  font-family: 'NISSAN BRAND';
-  src:  url('fonts/nissan brand light.otf');
-  font-weight: 300;
-}
-
 [class^="pixicon-"], [class*=" pixicon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'MEGAPACK' !important;
