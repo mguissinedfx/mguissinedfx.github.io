@@ -11,12 +11,12 @@
 
 /* Base */
 
-body { font-family: 'Nissan Brand',sans-serif !important;letter-spacing: .2px;
+body { font-family: 'Nissan Brand',sans-serif !important; letter-spacing: .2px;
     /* Support for all WebKit browsers. */
     -webkit-font-smoothing: antialiased;
     /* Support for Safari and Chrome. */
     text-rendering: optimizeLegibility;
-
+    font-style:normal;
     /* Support for Firefox. */
     -moz-osx-font-smoothing: grayscale;
 
