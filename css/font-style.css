@@ -9,7 +9,7 @@
   font-style: normal;
 }
 
-}@font-face {
+@font-face {
     font-family: 'NissanBrand';
     src: url("fonts/NissanBrand-Regular.eot"); /* IE9 Compat Modes */
     src: url("fonts/NissanBrand-Regular.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
@@ -29,8 +29,9 @@
          url("fonts/NissanBrand-Bold.svg#svgFontName") format("svg"); /* Legacy iOS */
     font-weight: bold;
     font-style: bold;
-    
-}@font-face {
+}
+
+@font-face {
     font-family: 'NissanBrand';
     src: url("fonts/NissanBrand-Italic.eot"); /* IE9 Compat Modes */
     src: url("fonts/NissanBrand-Italic.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
@@ -44,7 +45,7 @@
 
 [class^="pixicon-"], [class*=" pixicon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'NissanBrand' !important;
+  font-family: 'MEGAPACK' !important;
   speak: none;
   font-style: normal;
   font-weight: normal;

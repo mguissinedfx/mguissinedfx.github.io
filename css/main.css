@@ -17,6 +17,7 @@ body { font-family: 'NissanBrand' !important; letter-spacing: .2px;
     /* Support for Safari and Chrome. */
     text-rendering: optimizeLegibility;
     font-style:normal;
+    font-weight:normal;
     /* Support for Firefox. */
     -moz-osx-font-smoothing: grayscale;
 
