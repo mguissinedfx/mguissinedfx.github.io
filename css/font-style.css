@@ -10,21 +10,24 @@
 }
 
 @font-face {
-    font-family: NISSAN_BRAND;
-    src: url("fonts/nissan brand regular.otf") format("opentype");
+    font-family: NissanBrand;
+    src: url('css/fonts/NissanBrand-Regular.woff') format("woff"), url("css/fonts/NissanBrand-Regular.ttf")  format("truetype");
+    font-weight: normal;
+    font-style: normal;
 }
 
 @font-face {
-    font-family: NISSAN_BRAND;
+    font-family: NissanBrand;
+    src: url('css/fonts/NissanBrand-Bold.woff') format("woff"), url("css/fonts/NissanBrand-Bold.ttf")  format("truetype");
     font-weight: bold;
-    src: url("fonts/nissan brand bold.otf") format("opentype");
+    font-style: bold;
 }
 
-
 @font-face {
-  font-family: 'NISSAN BRAND';
-  src:  url('fonts/nissan brand light.otf');
-  font-weight: 300;
+    font-family: NissanBrand;
+    src: url('css/fonts/NissanBrand-Italic.woff') format("woff"), url("css/fonts/NissanBrand-Italic.ttf")  format("truetype");
+    font-weight: italic;
+    font-style: italic;
 }
 
 [class^="pixicon-"], [class*=" pixicon-"] {
