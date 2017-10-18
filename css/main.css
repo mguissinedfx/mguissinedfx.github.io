@@ -420,34 +420,10 @@ form textarea { max-width: 100%; }
 
 .pix-relative { position: relative; }
 
-/* original */
-.pix-original-1 { background-image: linear-gradient(rgba(0,0,0, 0.6), rgba(0,0,0, 0.6)),url('../images/original/bg-image.jpg');background-size: cover;background-position: center; }
-
-/* Startup */
-.pix-startup-intro { background-image: linear-gradient(rgba(54, 63, 72, 0.85), rgba(54, 63, 72, 0.85)),url('../images/startup/intro-bg.jpg');background-size: cover;background-position: center; }
-.pix-startup-1 { background-image: url('../images/startup/image-1.png');  }
-.pix-startup-2 { background-image: url('../images/startup/image-2.png');  }
-
-/* Product */
-.pix-product-1 { background-image: linear-gradient(rgba(208,225,0, 0.75), rgba(208,225,0, 0.75)),url('../images/product/bg-video-product.jpg');background-size: cover;background-attachment: fixed; }
-
-/* Saas */
-.pix-saas-intro { position: relative;top: -5px; }
-.pix-saas-1 { background-image: url('../images/saas/bg-intro.png');background-size: cover;background-attachment: fixed; }
-
-/* Real Esate */
-.pix-real-intro { background-image: linear-gradient(rgba(0,0,0, 0.7), rgba(0,0,0, 0.7)),url('../images/main/banner bg.jpg');background-size: cover;background-attachment: fixed; }
-.pix-real-1 { background-image: linear-gradient(rgba(0,0,0, 0.5), rgba(0,0,0, 0.5)),url('../images/main/banner bg.jpg');background-size: cover;background-attachment: fixed; }
+.pix-real-intro { background-image: linear-gradient(rgba(0,0,0, 0.7), rgba(0,0,0, 0.7)),url('../images/main/Banner_BG.jpg');background-size: cover;background-attachment: fixed; }
+.pix-real-1 { background-image: linear-gradient(rgba(0,0,0, 0.5), rgba(0,0,0, 0.5)),url('../images/main/Banner_BG.jpg');background-size: cover;background-attachment: fixed; }
 .pix-real-highlight { background-image: url('../images/real_estate/bg-highlight-left.jpg');background-size: cover;background-position: center; }
 .feature_align { padding-left: 3px;position: relative;top: 4px; }
-
-/* Agency */
-.pix-agency-1 { background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),url('../images/agency/bg-intro-agency.jpg');background-size: cover;background-position: center; }
-.agency-feature { background-size: cover;border-radius: 3px;overflow: hidden;padding-top: 170px;padding-bottom: 30px; }
-.agency-feature-1 { background-image: linear-gradient(rgba(0,0,0, 0.5), rgba(0,0,0, 0.5)),url('../images/agency/image-box-1.png'); }
-.agency-feature-2 { background-image: linear-gradient(rgba(0,0,0, 0.5), rgba(0,0,0, 0.5)),url('../images/agency/image-box-2.png'); }
-.agency-feature-3 { background-image: linear-gradient(rgba(0,0,0, 0.5), rgba(0,0,0, 0.5)),url('../images/agency/image-box-3.png'); }
-
 
 .media-box-area { display: table-cell;}
 .media-box-area .pix-inner { padding-left: 5px;padding-right: 5px; }
@@ -461,90 +437,9 @@ form textarea { max-width: 100%; }
     .media-sm-center { display: table;width: 100%;}
     .pix-sm-text-center { text-align: center; }
 }
+
 .big-icon-link i { font-size: 64px;margin: 10px 30px;line-height: 64px;display: inline-block; }
 .big-icon-link:hover, .big-icon-link:focus { text-decoration: none;opacity: 0.7;}
-
-/* Showcase */
-.pix-showcase-1 { background-image: linear-gradient(rgba(54,63,72, 0.8), rgba(54,63,72, 0.8)),url('../images/showcase/bg-intro.jpg');background-size: cover;background-attachment: fixed; }
-.pix-showcase-2 { background-image: linear-gradient(rgba(0,156,222, 0.7), rgba(0,156,222, 0.7)),url('../images/showcase/bg-intro.jpg');background-size: cover;background-attachment: fixed; }
-.pix-showcase-highlight-1 { background-image: url('../images/showcase/bg-highlight-left.jpg');background-size: cover;background-attachment: fixed; }
-.pix-showcase-highlight-2 { background-image: url('../images/showcase/bg-highlight-right.jpg');background-size: cover;background-attachment: fixed; }
-
-/* corporate */
-.pix-corporate-1 { background-image: linear-gradient(rgba(0,0,0, 0.6), rgba(0,0,0, 0.6)),url('../images/corporate/bg.jpg');background-size: cover;background-attachment: fixed;background-position: center; }
-.pix-corporate-highlight { background-image: linear-gradient(rgba(0,0,0, 0.3), rgba(0,0,0, 0.3)),url('../images/corporate/bg-highlight-right.jpg');background-size: cover;background-attachment: fixed; }
-
-
-/* Business */
-.pix-business-1 { background-image: linear-gradient(rgba(0,0,0, 0.4), rgba(0,0,0, 0.4)),url('../images/business/bg-intro.jpg');background-size: cover;background-attachment: fixed;background-position: top; }
-.pix-business-2 { background-image: linear-gradient(rgba(0,0,0, 0.4), rgba(0,0,0, 0.4)),url('../images/business/video-section-bg.jpg');background-size: cover;background-attachment: fixed;background-position: center; }
-
-/* SEO */
-.pix-seo-1 { background-image: url('../images/seo/seo-intro-bg.png');background-size: cover;background-attachment: fixed;background-position: center; }
-
-/* Marketing */
-.pix-marketing-1 { background-image: linear-gradient(rgba(234,67,53, 0.4), rgba(234,67,53, 0.4)),url('../images/agency/bg-intro-agency.jpg');background-size: cover;background-position: center; }
-
-/* Shop */
-.pix-shop-1 { background-image: url('../images/shop/shop-intro-image.png');background-size: cover;background-position: center; }
-
-/* Medical */
-.pix-medical-1 { background-image: linear-gradient(rgba(0,0,0, 0.6), rgba(0,0,0, 0.6)),url('../images/medical/bg-intro.jpg');background-size: cover;background-position: top; }
-
-/* creative */
-.pix-creative-intro { background-image: linear-gradient(rgba(0,0,0, 0.5), rgba(0,0,0, 0.5)),url('../images/creative/bg-intro-creative.jpg');background-size: cover;background-position: center; }
-.pix-creative-1 { background-image: linear-gradient(rgba(0,0,0, 0.5), rgba(0,0,0, 0.5)),url('../images/creative/bg-clients-section.jpg');background-size: cover;background-attachment: fixed;background-position: center; }
-.pix-creative-2 { background-image: linear-gradient(rgba(0,0,0, 0.5), rgba(0,0,0, 0.5)),url('../images/creative/bg-video-section.jpg');background-size: cover;background-attachment: fixed;background-position: center; }
-
-/* sport */
-.pix-sport-1 { background-image: linear-gradient(rgba(0,0,0, 0.6), rgba(0,0,0, 0.6)),url('../images/sport/intro-bg-stade.jpg');background-size: cover;background-attachment: fixed;background-position: center; }
-.pix-sport-2 { background-image: linear-gradient(rgba(0,0,0, 0.6), rgba(0,0,0, 0.6)),url('../images/sport/form-section-bg.jpg');background-size: cover;background-attachment: fixed;background-position: center; }
-
-/* car_rental */
-.pix-car_rental-1 { background-image: url('../images/car_rental/car-rental-intro-bg.png');background-size: cover;background-attachment: fixed;background-position: center;background-color: #363F48; }
-.pix-t-gray-bg { background: rgba(0,0,0,0.08);}
-.pix-car-highlight-1 { background-image: url('../images/car_rental/bg-highlight-left.jpg');background-size: cover;background-attachment: fixed; }
-
-/* restaurant */
-.pix-restaurant-1 { background-image: linear-gradient(rgba(0,0,0, 0.7), rgba(0,0,0, 0.7)),url('../images/restaurant/intro-bg.jpg');background-size: cover;background-attachment: fixed;background-position: center; }
-.pix-restaurant-2 { background-image: linear-gradient(rgba(0,0,0, 0.6), rgba(0,0,0, 0.6)),url('../images/restaurant/intro-bg.jpg');background-size: cover;background-attachment: fixed;background-position: center; }
-.pix-restaurant-highlight-1 { background-image: url('../images/restaurant/highlight-bg.jpg');background-size: cover;background-position: center; }
-
-/* software */
-.pix-software-1 { background-image: url('../images/software/intro-bg.jpg');background-color: #474747;background-size: cover;background-attachment: fixed;background-position: center; }
-
-/* elegant */
-.pix-elegant-1 { background-image: url('../images/elegant/intro-bg.png');background-color: #237F52;background-size: cover;background-position: center; }
-
-/* travel */
-.pix-travel-1 { background-image: linear-gradient(rgba(0,0,0, 0.3), rgba(0,0,0, 0.3)),url('../images/travel/intro-bg-3.jpg');background-size: cover;background-position: center; }
-.pix-travel-highlight-1 { background-image: url('../images/travel/intro-bg.jpg');background-size: cover;background-attachment: fixed; }
-
-/* ebook */
-.pix-ebook-1 { background-image: linear-gradient(rgba(0,0,0, 0.6), rgba(0,0,0, 0.6)),url('../images/ebook/intro-bg-ebook.jpg');background-size: cover;background-attachment: fixed;background-position: center; }
-
-/* construction */
-.pix-construction-1 { background-image: linear-gradient(rgba(54, 63, 72, 0.85), rgba(54, 63, 72, 0.85)),url('../images/construction/main.jpg');background-size: cover;background-attachment: fixed;background-position: center; }
-
-/* app */
-.pix-app-1 { background-image: url('../images/app/pattern-bg.png');background-color: #59A3FC;background-size: cover;background-attachment: fixed;background-position: center; }
-
-/* event */
-.pix-event-1 { background-image: linear-gradient(rgba(0,0,0, 0.6), rgba(0,0,0, 0.6)),url('../images/event/intro-bg.jpg');background-size: cover;background-attachment: fixed;background-position: center; }
-
-/* company */
-.pix-company-1 { background-image: url('../images/company/intro-company-pattern.png');background-color: #363f48;background-size: cover;background-attachment: fixed;background-position: center; }
-.pix-company-2 { background-image: url('../images/company/intro-company-pattern.png');background-color: #00c853;background-size: cover;background-attachment: scroll;background-position: center; }
-
-/* deal */
-.pix-deal-1 { background-image: url('../images/deal/intro-pattern.png');background-color: #f7941d;background-size: auto;background-attachment: scroll;background-position: center; }
-.pix-deal-2 { background-image: url('../images/deal/newsletter-pattern.png');background-color: #f4f4f4;background-size: auto;background-attachment: scroll;background-position: top; background-repeat: repeat-x;}
-
-/* hotel */
-.pix-hotel-1 { background-image: linear-gradient(rgba(54, 63, 72, 0.85), rgba(54, 63, 72, 0.85)),url('../images/hotel/intro-bg-hotel.jpg');background-color: #363f48;background-size: cover;background-attachment: fixed;background-position: center; }
-.pix-hotel-2 { background-image: linear-gradient(rgba(54, 63, 72, 0.85), rgba(54, 63, 72, 0.85)),url('../images/hotel/box-bg.jpg');background-color: #363f48;background-size: auto;background-attachment: scroll;background-position: center; }
-
-
 .pix_section .pix_section .row { margin: 0px;}
 
 /* Navbar */
@@ -633,7 +528,7 @@ form textarea { max-width: 100%; }
     transition:         all 0.2s ease-in-out;
 }
 
-img.scroll_logo_img { max-height: 30px !important;width: auto; }
+img.scroll_logo_img { max-height: 70px !important;width: auto; }
 .navbar-toggle {
     border: 0px solid transparent;
 }
