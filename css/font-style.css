@@ -9,30 +9,42 @@
   font-style: normal;
 }
 
-@font-face {
-    font-family: NissanBrand;
-    src: url('css/fonts/NissanBrand-Regular.woff') format("woff"), url("css/fonts/NissanBrand-Regular.ttf")  format("truetype");
+}@font-face {
+    font-family: 'NissanBrand';
+    src: url("fonts/NissanBrand-Regular.eot"); /* IE9 Compat Modes */
+    src: url("fonts/NissanBrand-Regular.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+         url("fonts/NissanBrand-Regular.woff") format("woff"), /* Modern Browsers */
+         url("fonts/NissanBrand-Regular.ttf")  format("truetype"), /* Safari, Android, iOS */
+         url("fonts/NissanBrand-Regular.svg#svgFontName") format("svg"); /* Legacy iOS */
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
-    font-family: NissanBrand;
-    src: url('css/fonts/NissanBrand-Bold.woff') format("woff"), url("css/fonts/NissanBrand-Bold.ttf")  format("truetype");
+    font-family: 'NissanBrand';
+    src: url("fonts/NissanBrand-Bold.eot"); /* IE9 Compat Modes */
+    src: url("fonts/NissanBrand-Bold.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+         url("fonts/NissanBrand-Bold.woff") format("woff"), /* Modern Browsers */
+         url("fonts/NissanBrand-Bold.ttf")  format("truetype"), /* Safari, Android, iOS */
+         url("fonts/NissanBrand-Bold.svg#svgFontName") format("svg"); /* Legacy iOS */
     font-weight: bold;
     font-style: bold;
-}
-
-@font-face {
-    font-family: NissanBrand;
-    src: url('css/fonts/NissanBrand-Italic.woff') format("woff"), url("css/fonts/NissanBrand-Italic.ttf")  format("truetype");
+    
+}@font-face {
+    font-family: 'NissanBrand';
+    src: url("fonts/NissanBrand-Italic.eot"); /* IE9 Compat Modes */
+    src: url("fonts/NissanBrand-Italic.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+         url("fonts/NissanBrand-Italic.woff") format("woff"), /* Modern Browsers */
+         url("fonts/NissanBrand-Italic.ttf")  format("truetype"), /* Safari, Android, iOS */
+         url("fonts/NissanBrand-Italic.svg#svgFontName") format("svg"); /* Legacy iOS */
     font-weight: italic;
     font-style: italic;
 }
 
+
 [class^="pixicon-"], [class*=" pixicon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'MEGAPACK' !important;
+  font-family: 'NissanBrand' !important;
   speak: none;
   font-style: normal;
   font-weight: normal;
