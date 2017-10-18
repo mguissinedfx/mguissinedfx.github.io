@@ -420,9 +420,7 @@ form textarea { max-width: 100%; }
 
 .pix-relative { position: relative; }
 
-.pix-real-intro { background-image: linear-gradient(rgba(0,0,0, 0.7), rgba(0,0,0, 0.7)),url('../images/main/Banner_BG.jpg');background-size: cover;background-attachment: fixed; }
-.pix-real-1 { background-image: linear-gradient(rgba(0,0,0, 0.5), rgba(0,0,0, 0.5)),url('../images/main/Banner_BG.jpg');background-size: cover;background-attachment: fixed; }
-.pix-real-highlight { background-image: url('../images/real_estate/bg-highlight-left.jpg');background-size: cover;background-position: center; }
+.pix-real-intro { background-image: url('../images/main/Banner_BG.jpg');background-size: cover;background-attachment: fixed; }
 .feature_align { padding-left: 3px;position: relative;top: 4px; }
 
 .media-box-area { display: table-cell;}
